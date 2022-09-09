@@ -1,0 +1,23 @@
+.app-rodape {
+   background-color: #6278F7;
+   height: 150px;
+   max-width: 100%;
+   padding: 75px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.app-rodape .icones img {
+    margin-right: 34px;
+}
+
+.app-rodape .icones img:nth-child(3) {
+    margin-right: 0;
+}
+
+.app-rodape .texto p {
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 500;
+}
